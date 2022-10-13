@@ -1,0 +1,1 @@
+To play the game, open up the project in unity 
